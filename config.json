@@ -266,9 +266,9 @@
       "is_adult": false
     },
     "ffzyapi": {
-      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
+      "api": "http://ffzy5.tv/api.php/provide/vod",
       "name": "TV-非凡资源",
-      "detail": "https://cj.ffzyapi.com",
+      "detail": "http://ffzy5.tv",
       "is_adult": false
     },
     "p2100": {
